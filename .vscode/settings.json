@@ -8,5 +8,9 @@
         "doublecircle",
         "fontname",
         "rankdir"
+    ],
+    "python.linting.flake8Args": [
+        "--config",
+        "flake8/setup.cfg"
     ]
 }
